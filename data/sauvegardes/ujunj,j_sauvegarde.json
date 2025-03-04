@@ -1,0 +1,1 @@
+{"nom": "ujunj,j", "pokemons": [{"nom": "Pikachu", "type_": "electric", "pv": 84, "niveau": 5, "attaque": 30, "defense": 20, "image_path": "img/sprites/pikachu_back.png", "xp": 0, "xp_to_next_level": 100}, {"nom": "Carabaffe", "type_": "terre", "pv": 47, "niveau": 5, "attaque": 25, "defense": 15, "image_path": "img/sprites/wartortle.png", "xp": 0, "xp_to_next_level": 100}]}
